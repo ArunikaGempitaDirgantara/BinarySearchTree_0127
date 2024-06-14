@@ -79,5 +79,9 @@ public:
 			cout << "Tree is empty" << endl;
 			return;
 		}
+		if (ptr != NULL)
+		{
+			
+		}
 	}
 };
