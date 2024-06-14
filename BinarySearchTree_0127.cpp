@@ -81,7 +81,9 @@ public:
 		}
 		if (ptr != NULL)
 		{
-			
+			inorder(ptr->leftchild);
+			cout << ptr->info << "";
+			inorder(ptr->rightchild);
 		}
 	}
 };
