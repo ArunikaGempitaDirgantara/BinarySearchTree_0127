@@ -135,5 +135,10 @@ public:
 			char ch;
 			cin >> ch;
 			cout << endl;
+
+			switch (ch)
+			{
+
+			}
 		}
 	}
